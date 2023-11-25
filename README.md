@@ -1,2 +1,2 @@
-# Proyecto-Fin-de-Grado
-Proyecto TFG del Grado Superior de DAW
+# Proyecto-Fin-de-Grado-Front-End
+Proyecto TFG del Grado Superior de DAW (Parte Front)
